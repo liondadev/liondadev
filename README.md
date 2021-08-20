@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 5em">
+<p align="center" style="font-size: 1.2em">
   LionDaDev
 </p>
 <p align="center">
