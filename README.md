@@ -1,9 +1,9 @@
-<h1 align="center">
+<p align="center" style="font-size: 1em">
   LionDaDev
-</h1>
-<h2 align="center">
+</p>
+<p align="center">
   I make things sometimes
-</h2>
+</p>
 <hr>
 
 ![Lion's Amazing Github Stats](https://github-readme-stats.vercel.app/api?username=liondadev&count_private=true&show_icons=true&theme=radical)
