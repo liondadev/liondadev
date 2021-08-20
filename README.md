@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 1.2em">
+<h1 align="center">
   LionDaDev
-</p>
+</h1>
 <p align="center">
   I make things sometimes
 </p>
