@@ -1,14 +1,14 @@
 # Hey There 😀
-My name is Benton, and I like making random stuff. I mainly use[🟣 Lua](https://www.lua.org/) and [🟡 Javascript](https://www.javascript.com/) with [🔵 React](https://reactjs.org/) / [⚫ Next.JS](https://nextjs.org/) for making websites. I'm currently learning more advanced backend systems and like learning stuff.
+My name is Benton, and I like making random stuff. I mainly use [Lua](https://www.lua.org/) and [Javascript](https://www.javascript.com/) with [React](https://reactjs.org/) / [Next.JS](https://nextjs.org/) for making websites. I'm currently learning more advanced backend systems and like learning stuff.
 
 # Games 🎮
 Garry's Mod
 Minecraft
 
 # TV Shows 📺
-[Criminal Minds](https://www.imdb.com/title/tt0452046/)
+[Criminal Minds](https://www.imdb.com/title/tt0452046/)<br>
 [The Simpsons](https://www.imdb.com/title/tt0096697/)
-+ Lots of others
+& Lots of others
 
 # Language Breakdown ⌨
 <div style="display: flex; justify-content: center; align-items: center; gap: 0.5em;">
