@@ -1,4 +1,7 @@
 # Benton J.
+
+-------
+[![trophy](https://github-profile-trophy.vercel.app/?username=liondadev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -------
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
