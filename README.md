@@ -1,12 +1,24 @@
-# Benton J.
+# Hey There 😀
+My name is Benton, and I like making random stuff. I mainly use[🟣 Lua](https://www.lua.org/) and [🟡 Javascript](https://www.javascript.com/) with [🔵 React](https://reactjs.org/) / [⚫ Next.JS](https://nextjs.org/) for making websites. I'm currently learning more advanced backend systems and like learning stuff.
 
--------
-[![trophy](https://github-profile-trophy.vercel.app/?username=liondadev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--------
+# Games 🎮
+Garry's Mod
+Minecraft
+
+# TV Shows 📺
+[Criminal Minds](https://www.imdb.com/title/tt0452046/)
+[The Simpsons](https://www.imdb.com/title/tt0096697/)
++ Lots of others
+
+# Language Breakdown ⌨
+<div style="display: flex; justify-content: center; align-items: center; gap: 0.5em;">
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+</div>
 
+# Github Stats 📈
+<div style="display: flex; justify-content: center; align-items: center;">
 ![Lion's Amazing Github Stats](https://github-readme-stats.vercel.app/api?username=liondadev&count_private=true&show_icons=true&theme=radical&year=2022)
+</div>
