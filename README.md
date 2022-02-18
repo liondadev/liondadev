@@ -26,5 +26,5 @@ Minecraft
 ### Github Stats 📈
 ![Lion's Amazing Github Stats](https://github-readme-stats.vercel.app/api?username=liondadev&count_private=true&show_icons=true&theme=radical&year=2022)
 
-### Joke
+### Joke 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
