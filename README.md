@@ -1,30 +1,20 @@
-### Hey There 😀
-My name is Benton, and I like making random stuff. I mainly use [Lua](https://www.lua.org/) and [Javascript](https://www.javascript.com/) with [React](https://reactjs.org/) / [Next.JS](https://nextjs.org/) for making websites. I'm currently learning more advanced backend systems and like learning stuff.
+# Bio 🔮
+Hello, my name is Benton Johnson! I like to program things for fun. I'm not the best, but I work on what I find fun (or what can make me some spare change). I like learning things and making stuff with the things I learn. I like playing video games and talking with friends.
 
-### Games 🎮
-Garry's Mod
-Minecraft
+# Setup 💻
+- [Monitor 1: LG 29WN600-W 29" 21:9 UltraWide WFHD (Center)](https://www.amazon.com/LG-29WN600-W-29-21-UltraWide/dp/B0876DBCBX/ref=asc_df_B0876DBCBX/?tag=hyprod-20&linkCode=df0&hvadid=459728334703&hvpos=&hvnetw=g&hvrand=13540876788967384905&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008536&hvtargid=pla-953460636154&psc=1)
+- Monitor 2: Old AOC Monitor (LEFT)
+- [Monitor 3: Sceptre 24" Professional Thin 75Hz 1080p LED Monitor (Right)](https://www.amazon.com/Sceptre-E248W-19203R-Monitor-Speakers-Metallic/dp/B0773ZY26F/ref=asc_df_B0773ZY26F/?tag=hyprod-20&linkCode=df0&hvadid=309773039951&hvpos=&hvnetw=g&hvrand=14200743190557487084&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008536&hvtargid=pla-494384694463&psc=1)
+- [Keyboard: VELOCIFIRE TKL02 Mechanical Keyboard](https://www.amazon.com/dp/B07DFBKYT5?psc=1&ref=ppx_yo2_dt_b_product_details)
+- [Mouse: Logitech G305 LIGHTSPEED Wireless Gaming Mouse](https://www.amazon.com/dp/B07CMS5Q6N?ref=ppx_yo2_dt_b_product_details&th=1)
+- [Mousepad: ALOANES Large Gaming Mouse Pad with Non-Slip Rubber Base](https://www.amazon.com/dp/B08ZMZH857?psc=1&ref=ppx_yo2_dt_b_product_details)
+- [Chair: Furmax Office Chair Mid Back Swivel Lumbar Support Desk Chair](https://www.amazon.com/dp/B07B7K7N3P?psc=1&ref=ppx_yo2_dt_b_product_details)
+- [Phone: Samsung Galazy A51 5G (Android > Any Apple Product)](https://www.samsung.com/ie/smartphones/galaxy-a/galaxy-a51-5g-black-128gb-sm-a516bzkdeua/)
 
-### TV Shows 📺
-[Criminal Minds](https://www.imdb.com/title/tt0452046/)<br>
-[The Simpsons](https://www.imdb.com/title/tt0096697/)<br>
-& Lots of others
+# Links 📝
+[Gmodstore](https://www.gmodstore.com/users/lion)
+[Steam](https://steamcommunity.com/id/LionDaDev/)
 
-### Language Breakdown ⌨
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Next.JS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-
-### Learning 📚
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-
-### Github Stats 📈
-![Lion's Amazing Github Stats](https://github-readme-stats.vercel.app/api?username=liondadev&count_private=true&show_icons=true&theme=radical&year=2022)
-
-### Joke 😂
-![Jokes Card](https://readme-jokes.vercel.app/api)
+# Stats 📈
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=liondadev&theme=react&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liondadev&theme=react&show_icons=true" />
