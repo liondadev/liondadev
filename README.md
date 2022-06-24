@@ -1,5 +1,3 @@
-![Homer Simpson walking normally with nothing bad or wierd happening gif](https://github.com/liondadev/liondadev/blob/main/linux-homer.gif)
-
 ## Bio 🔮
 Hello, my name is Benton Johnson! I like to program things for fun. I'm not the best, but I work on what I find fun (or what can make me some spare change). I like learning things and making stuff with the things I learn. I like playing video games and talking with friends.
 
@@ -20,3 +18,5 @@ Hello, my name is Benton Johnson! I like to program things for fun. I'm not the 
 ## Stats 📈
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=liondadev&theme=react&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liondadev&theme=react&show_icons=true" />
+
+![Homer Simpson walking normally with nothing bad or wierd happening gif](https://github.com/liondadev/liondadev/blob/main/linux-homer.gif)
