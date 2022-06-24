@@ -1,3 +1,5 @@
+![Homer Simpson walking normally with nothing bad or wierd happening gif](https://tenor.com/view/linux-homer-simpson-simpsons-get-real-gif-22019993)
+
 ## Bio 🔮
 Hello, my name is Benton Johnson! I like to program things for fun. I'm not the best, but I work on what I find fun (or what can make me some spare change). I like learning things and making stuff with the things I learn. I like playing video games and talking with friends.
 
