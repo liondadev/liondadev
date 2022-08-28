@@ -8,7 +8,6 @@ Hello, my name is Benton Johnson! I like to program things for fun. I'm not the 
 - [Mouse: Logitech G305 LIGHTSPEED Wireless Gaming Mouse](https://www.amazon.com/dp/B07CMS5Q6N?ref=ppx_yo2_dt_b_product_details&th=1)
 - [Mousepad: ALOANES Large Gaming Mouse Pad with Non-Slip Rubber Base](https://www.amazon.com/dp/B08ZMZH857?psc=1&ref=ppx_yo2_dt_b_product_details)
 - [Chair: Furmax Office Chair Mid Back Swivel Lumbar Support Desk Chair](https://www.amazon.com/dp/B07B7K7N3P?psc=1&ref=ppx_yo2_dt_b_product_details)
-- [Phone: Samsung Galazy A51 5G (Android > Any Apple Product)](https://www.samsung.com/ie/smartphones/galaxy-a/galaxy-a51-5g-black-128gb-sm-a516bzkdeua/)
 
 ## Links 📝
 [Steam](https://steamcommunity.com/id/LionDaDev/)
