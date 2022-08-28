@@ -11,7 +11,6 @@ Hello, my name is Benton Johnson! I like to program things for fun. I'm not the 
 - [Phone: Samsung Galazy A51 5G (Android > Any Apple Product)](https://www.samsung.com/ie/smartphones/galaxy-a/galaxy-a51-5g-black-128gb-sm-a516bzkdeua/)
 
 ## Links 📝
-[Gmodstore](https://www.gmodstore.com/users/lion)
 [Steam](https://steamcommunity.com/id/LionDaDev/)
 
 ## Stats 📈
