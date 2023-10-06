@@ -1,13 +1,7 @@
-## Bio 🔮
-human
+## Bio
+human person
 
-just because i go by lion doesn't mean im a furry
-
-please stop asking me
-
-please
-
-## Setup 💻
+## Setup
 - [Monitor 1: LG 29WN600-W 29" 21:9 UltraWide WFHD (Center)](https://www.amazon.com/LG-29WN600-W-29-21-UltraWide/dp/B0876DBCBX/ref=asc_df_B0876DBCBX/?tag=hyprod-20&linkCode=df0&hvadid=459728334703&hvpos=&hvnetw=g&hvrand=13540876788967384905&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008536&hvtargid=pla-953460636154&psc=1)
 - [Monitor 2: Sceptre 24" Professional Thin 75Hz 1080p LED Monitor (Right)](https://www.amazon.com/Sceptre-E248W-19203R-Monitor-Speakers-Metallic/dp/B0773ZY26F/ref=asc_df_B0773ZY26F/?tag=hyprod-20&linkCode=df0&hvadid=309773039951&hvpos=&hvnetw=g&hvrand=14200743190557487084&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008536&hvtargid=pla-494384694463&psc=1)
 - [Keyboard: VELOCIFIRE TKL02 Mechanical Keyboard](https://www.amazon.com/dp/B07DFBKYT5?psc=1&ref=ppx_yo2_dt_b_product_details)
@@ -15,11 +9,9 @@ please
 - [Mousepad: ALOANES Large Gaming Mouse Pad with Non-Slip Rubber Base](https://www.amazon.com/dp/B08ZMZH857?psc=1&ref=ppx_yo2_dt_b_product_details)
 - [Chair: Furmax Office Chair Mid Back Swivel Lumbar Support Desk Chair](https://www.amazon.com/dp/B07B7K7N3P?psc=1&ref=ppx_yo2_dt_b_product_details)
 
-## Links 📝
+## Links
 [Steam](https://steamcommunity.com/id/LionDaDev/)
 
-## Stats 📈
+## Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=liondadev&theme=react&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liondadev&theme=react&show_icons=true" />
-
-![Homer Simpson walking normally with nothing bad or wierd happening gif](https://github.com/liondadev/liondadev/blob/main/linux-homer.gif)
