@@ -1,9 +1,15 @@
-## Bio
-human person
+# Hey, I'm Lion 👋
 
-## Links
-[Steam](https://steamcommunity.com/id/LionDaDev/)
+I work on things that intrest me mostly, but like learning new stuff sometimes.
 
-## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=liondadev&theme=react&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liondadev&theme=react&show_icons=true" />
+## Currently interested in
+
+- Cloud stuff
+
+## "Experience"
+
+- Lua
+- Go
+- JS/TS
+- A bit of rust when I'm feeling wacky
+- ^^^ same with c++
