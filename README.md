@@ -2,14 +2,16 @@
 
 I work on things that intrest me mostly, but like learning new stuff sometimes.
 
-## Currently interested in
+## The Stack
 
-- Cloud stuff
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Go](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 
-## "Experience"
-
-- Lua
-- Go
-- JS/TS
-- A bit of rust when I'm feeling wacky
-- ^^^ same with c++
+## Work
+Mostly GMod stuff, with web related stuff on the side.
